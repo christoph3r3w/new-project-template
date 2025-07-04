@@ -1,6 +1,6 @@
 test-results
 node_modules
-setup.sh
+# setup.sh
 
 # Output
 .output
